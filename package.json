@@ -10,7 +10,7 @@
         "bson": "*"
     },
     "peerDependencies": {
-        "hubot": "2.18.x"
+        "hubot": "2.19.x"
     },
     "devDependencies": {
         "coffee-script": "*"
